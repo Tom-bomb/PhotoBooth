@@ -1,1 +1,1 @@
-PhotoBooth
+The Photobooth application. 
